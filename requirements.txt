@@ -11,3 +11,4 @@ seaborn==0.13.2
 joblib==1.4.2
 jupyter==1.1.1
 python-dotenv==1.1.0
+category_encoders
