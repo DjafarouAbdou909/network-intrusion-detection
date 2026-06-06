@@ -31,17 +31,29 @@ Compétition ML sur la détection d'intrusion réseau — classification de flux
 ## Structure
 
 ├── data/
+
 │   └── raw/
+
 │       ├── train.csv
+
 │       ├── test_public.csv
+
 │       └── validation.csv
+
 ├── notebooks/
+
 │   ├── 01_data_understanding.ipynb
+
 │   ├── 02_data_preparation.ipynb
+
 │   ├── 03_eda.ipynb
+
 │   └── 04_modeling.ipynb
+
 ├── outputs/
+
 │   └── submission.csv
+
 └── requirements.txt
 
 ## Installation
