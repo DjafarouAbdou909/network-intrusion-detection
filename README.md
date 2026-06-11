@@ -18,6 +18,8 @@ Compétition ML sur la détection d'intrusion réseau classification de flux ré
 
 **🥇 Classement : 1er** sur [sekcoder.com](https://sekcoder.com)
 
+![Leaderboard](assets/leaderboard.png)
+
 ## Dataset
 
 - **180 371** flux réseau · **42 features** · **10 classes**
