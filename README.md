@@ -99,5 +99,5 @@ jupyter notebook
 
 ## 👤 Author
 
-**Djafarou Abdou** Computer Engineering Student, IUA Abidjan
+**Djafarou Abdou** Artificial Intelligence & Big Data Student, Institut CERCO
 [![GitHub](https://img.shields.io/badge/GitHub-DjafarouAbdou909-black?logo=github)](https://github.com/DjafarouAbdou909)
